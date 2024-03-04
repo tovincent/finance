@@ -1,8 +1,8 @@
 # Machine learning for finance
 
-# Système de Trading Algorithmique
+# Système de Trading Algorithmique  
 
-Ce projet Python démontre comment construire un système de trading algorithmique basique qui utilise l'analyse technique et l'apprentissage automatique pour prendre des décisions de trading. Le système télécharge les données historiques des prix d'actions, calcule divers indicateurs techniques, utilise un modèle de machine learning pour prédire la direction future des prix, et simule des décisions de trading basées sur ces prédictions.
+Ce projet Python (MLTradingStrategy.py) démontre comment construire un système de trading algorithmique basique qui utilise l'analyse technique et l'apprentissage automatique pour prendre des décisions de trading. Le système télécharge les données historiques des prix d'actions, calcule divers indicateurs techniques, utilise un modèle de machine learning pour prédire la direction future des prix, et simule des décisions de trading basées sur ces prédictions.
 
 ## Fonctionnalités
 
